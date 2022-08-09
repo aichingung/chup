@@ -1,0 +1,11 @@
+.userContainer {
+  border: 1px solid black;
+  width: 300px;
+  margin-left: 300px;
+  position: relative;
+  top: 200px;
+}
+
+/* .headings {
+  width: 300px;
+} */

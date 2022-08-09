@@ -1,0 +1,26 @@
+.activityContainer {
+  /* border: 1px solid black;
+  border-radius: 20px; */
+  width: 300px;
+}
+
+.pending {
+  background-color: cornflowerblue;
+}
+
+.completed {
+ background-color: darkcyan;
+}
+
+.Link {
+font-size: 20px;
+}
+
+.ongoing {
+  cursor: pointer;
+  color: #f5a524;
+}
+
+.headers {
+  color: #f5a524;
+}
